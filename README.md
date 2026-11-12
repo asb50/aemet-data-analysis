@@ -1,4 +1,4 @@
-# Trabajo FMSD 1 - Consulta y Análisis de Datos de AEMET
+# Consulta y Análisis de Datos de AEMET
 
 Proyecto de la asignatura **Fundamentos Matemáticos de los Sistemas de Datos** enfocado en la integración con la API de [AEMET OpenData](https://opendata.aemet.es/) para la extracción, procesamiento y análisis de datos meteorológicos.
 
